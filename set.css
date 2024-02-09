@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 80px;
+}
+.poem {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 80px;
+}
+.poem p {
+    margin-bottom: 30px;
+}
+
+.return-button {
+    font-size: 35px;
+
+}
